@@ -1,0 +1,42 @@
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+*.cache
+cache/
+.cache/
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Histórico de shell
+*_history
+.bash_history
+.zsh_history
+
+# Chaves privadas e certificados
+*.key
+*.pem
+*.cert
+*.crt
+*.gpg
+id_rsa*
+id_ed25519*
+
+# Arquivos de senha
+*.password
+*.credentials
+
+# Arquivos temporários
+*.tmp
+*.temp
+*~
+.swp
+.swo
+
+# Backups
+*.backup
+*.bak
+*.old
